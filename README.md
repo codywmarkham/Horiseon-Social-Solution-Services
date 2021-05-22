@@ -4,7 +4,8 @@ Horiseon Social Solution Services has a product meant to help you while using th
 
 Clicking one of the three texts on the nav bar (located at the top right of the page) will take you to the presented explanation for the clicked text.
 
-![alt text]Horiseon-Social-Solution-Services\assets\images\Explanation.png
+
+![Explantion Image](\assets\images\Explanation.png)
 
 Coded by Cody Markham 2021
 
